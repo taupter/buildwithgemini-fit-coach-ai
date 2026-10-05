@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "playwright": "^1.63.0"
+  },
+  "name": "fit-coach-ai",
+  "version": "1.0.0",
+  "description": "Simple ReAct agent Agent generated with `agents-cli` version `1.1.0`",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
